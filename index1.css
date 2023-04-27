@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding: 3px;
+  text-align: center;
+  
+}
+.main_heading{
+    padding: 0;
+    color: rgb(15, 6, 6);
+    font-size: 42px;
+    font-style:arial;
+    width: 1023px;
+    margin: auto;
+   
+
+}
+.harsh{
+  display: flex;
+  background-color: hsl(0, 91%, 31%);
+  position: sticky;
+  top: 0;
+ 
+}
+.font{
+  padding: auto;
+}
+
+
+
+.buttonr{
+  color: yellow;
+  size: 5px;
+  font-size: 5px;
+}
+.mentor{
+  color: yellow;
+}
+button{
+  font-size: 25px;
+  background-color: yellow;
+}
